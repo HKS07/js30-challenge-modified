@@ -1,0 +1,1 @@
+1. add a functionality  that when you click on a button all hands move 720 deg and comes back to current time;
