@@ -3,3 +3,5 @@
 3. what is a promise
 4. what is cors is it similar to cors we studied in iiot compatible restuful state
 5. what is regex and its usage
+
+ques. filter out the data based on the closest to me 
